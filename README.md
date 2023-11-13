@@ -14,8 +14,12 @@ errors for more reliable model evaluation and deployment in rural settings, enha
 systems for rural autonomous driving.
 
 ## Model Accuracy
+![alt text](https://github.com/DevoyBoy/enhanced-object-detection/blob/main/results/map.PNG?raw=true)
+![alt text](https://github.com/DevoyBoy/enhanced-object-detection/blob/main/results/class-map.PNG?raw=true)
 
 ## Detection Errors
+![alt text](https://github.com/DevoyBoy/enhanced-object-detection/blob/main/results/det.PNG?raw=true)
+![alt text](https://github.com/DevoyBoy/enhanced-object-detection/blob/main/results/tide.PNG?raw=true)
 
 ## Limitations
 There are several limitations in the projects study that must be considered when interpreting the
